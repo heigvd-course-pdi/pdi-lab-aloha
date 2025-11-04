@@ -47,7 +47,7 @@ The method `Channel.send_packet` has the following structure:
 *Your answer here*
 
 
-#### If there are 10 packets currently in transmission, how many instances of the method `Channel.send_packet` will be running in parallel?
+#### If there are 10 packets currently in transmission, how many instances of the method `Channel.send_packet` will be running in parallel? (1 point)
 
 *Your answer here*
 
